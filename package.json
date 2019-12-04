@@ -1,0 +1,19 @@
+{
+  "name": "climate-change-graph",
+  "version": "1.0.0",
+  "description": "GISS Surface Temperature Analysis by NASA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasimv09/climate-change-graph.git"
+  },
+  "author": "wasim varshani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasimv09/climate-change-graph/issues"
+  },
+  "homepage": "https://github.com/wasimv09/climate-change-graph#readme"
+}
